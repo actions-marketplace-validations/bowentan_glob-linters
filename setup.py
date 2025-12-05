@@ -19,7 +19,7 @@ requirements = [
     "flake8==6.0.0",
     "black==22.12.0",
     "isort==5.11.4",
-    "mypy==0.991",
+    "mypy==1.19.0",
 ]
 
 test_requirements = [
